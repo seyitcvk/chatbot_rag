@@ -1,0 +1,26 @@
+# Core Dependencies
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# Document Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+pandas==2.1.4
+
+# LangChain Ecosystem
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-openai==0.0.8
+
+# Vector Store
+chromadb==0.4.22
+
+# Embeddings (OpenAI için)
+openai==1.12.0
+tiktoken==0.5.2
+
+# Text Processing
+sentence-transformers==2.3.1
+
+# Utilities
+numpy==1.26.3
